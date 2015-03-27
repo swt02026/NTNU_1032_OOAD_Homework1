@@ -57,3 +57,11 @@
 5. 一個物件處理銀行跟公司的複雜的業務邏輯,如：取得員工資料,確認任務完成（mediator）
 6. 一個物件用來代表通知員工(可能有人偏好簡訊 有人email)
 7. 一個物件用來註冊需要被通知的員工,利用註冊弟六點所說的每個通知員工用的物件,並在銀行確認完成,一併通知員工們（Observer）
+
+
+##4.
+	開發環境
+	1. 作業系統：Windows 8.1 x64
+	2. Java Develop Kit：Oracle JDK 1.8 x64
+	3. IDE：Jetbrains IntelliJ 14
+	4. Project Language Level : 1.8
